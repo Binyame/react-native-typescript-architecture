@@ -13,7 +13,8 @@ A comprehensive React Native TypeScript application built for learning core conc
 
 ## 📱 Screenshots
 
-_Add screenshots of your app here_
+![home](image.png)
+![mobile](<Screenshot 2025-07-11 at 7.02.30 PM.jpeg.png>)
 
 ## 🛠️ Technologies Used
 
