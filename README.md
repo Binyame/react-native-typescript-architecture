@@ -1,4 +1,4 @@
-# React Native Learning App
+# react-native-typescript-architecture
 
 A comprehensive React Native TypeScript application built for learning core concepts and interview preparation.
 
